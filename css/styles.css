@@ -235,6 +235,21 @@ border-radius: 0px 0px 4px 4px;
    padding-right: 16px;
    padding-top: 32px;
    padding-bottom: 32px;
+   background-color: rgba(0, 0, 0, 0.15);
+}
+.social-list-item {
+}
+.social-list-team {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: var(--primary-background-color);
+}
+.social-list-icon {
+   
 }
 /* -----------------------------------Footter--------------------------------------------------- */
 .footer {
